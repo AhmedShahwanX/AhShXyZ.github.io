@@ -1,6 +1,6 @@
 > This is a WIP
 
-# Ahmed Shahwan
+# Ahmed Shahwan, The BackEnd Engineer
 
 ## Introduction
 
@@ -155,11 +155,12 @@ A startup in the fin-tech industry that provides software-based financial servic
 - Other Tutorials
   - [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
-.... Add all the possible courses you studied before (Google for the courses and get the names right, and add links to them)
+<!-- .... Add all the possible courses you studied before (Google for the courses and get the names right, and add links to them) -->
 
 ## Books I read
 
 - [Django 2 by Example: Build powerful and reliable Python web applications from scratch](https://www.goodreads.com/book/show/40504536-django-2-by-example)
+
 <!-- - (WIP) [Django 3 By Example: Build powerful and reliable Python web applications from scratch, 3rd Edition](https://www.goodreads.com/book/show/53090925-django-3-by-example)
 - [Flask Web Development: Developing Web Applications with Python](https://www.goodreads.com/book/show/18774655-flask-web-development)
 - (WIP) Flask Web Development: Developing Web Applications with Python *2nd Edition* -->

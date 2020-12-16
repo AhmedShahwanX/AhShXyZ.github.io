@@ -16,4 +16,4 @@ _book
 *.pdf
 
 # Don't ignore my cv
-!my_cv.pdf
+!cv.pdf
