@@ -1,4 +1,4 @@
-> This is a WIP
+> **This is Work-In-Progress**
 
 # Ahmed Shahwan, The BackEnd Engineer
 
@@ -76,10 +76,13 @@ A startup in the fin-tech industry that provides software-based financial servic
 - SaaS Inventory, PoS and E-Commerce (XShop) *Do the same for all projects(Demo&src)*
   - Demo
   - Source Code
-- MyShop
+- MyShop (e-commerce Proof-of-concept)
+
+<!--
 - Social Media Platform (do from the book & put your touches)
 - Educa (do from the book & put your touches)
 - laravel Forum
+-->
 
 <!-- ## (WIP) Certifications earned
 
