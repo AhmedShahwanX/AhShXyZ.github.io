@@ -4,8 +4,10 @@
 
 ## Introduction
 
-Hello there, I'm software engineer with diverse experience in the software industry.
-I have extensive experience in the web backend using **Python**, **Django**, and The **Django REST Framework**. And other backend experience with **Flask**, **FastAPI**, **Laravel**, and **ExpressJS**. I also good enough in the frontend technologies: **HTML5**, **CSS3**, **JavaScript** (ES5+), **Bootstrap** v4+, **TailwindCSS** v2+, **Vuejs** v2+ and **Reactjs** v16+
+A software engineer with extensive experience in the web backend using **Python**, **Django**, and The **Django REST Framework**. And other backend experience with **Flask**, **FastAPI**, and **ExpressJS**.
+<!--
+I also good enough in the frontend technologies: **HTML5**, **CSS3**, **JavaScript** (ES5+), **Bootstrap** v4+, **TailwindCSS** v2+, **Vuejs** v2+ and **Reactjs** v16+
+-->
 
 ## Professional Experience
 
